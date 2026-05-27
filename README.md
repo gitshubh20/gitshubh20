@@ -8,11 +8,6 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://x.com/avishubham20">
-  <img alt="Twitter/X" width="28px" src="https://cdn.simpleicons.org/x" />
-</a>
-&nbsp;&nbsp;
-
 <a href="https://www.geeksforgeeks.org/user/geekyshubh20/">
   <img alt="GeeksForGeeks" width="28px" src="https://cdn.simpleicons.org/geeksforgeeks" />
 </a>
