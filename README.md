@@ -1,99 +1,133 @@
 # [Shubham Gupta]() <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<br/>
+<p align="left">
+
 <a href="https://www.linkedin.com/in/shubham-gupta-th2006/">
-  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+&nbsp;&nbsp;
+
 <a href="https://x.com/avishubham20">
-  <img align="left" alt="Shubham Gupta| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Twitter/X" width="28px" src="https://cdn.simpleicons.org/x" />
 </a>
+&nbsp;&nbsp;
+
 <a href="https://www.geeksforgeeks.org/user/geekyshubh20/">
-  <img align="left" alt="Shubham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  <img alt="GeeksForGeeks" width="28px" src="https://cdn.simpleicons.org/geeksforgeeks" />
 </a>
-<a href="https://leetcode.com/vkn84527/">
-  <img align="left" alt="Shubham's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/gitshubh20/">
+  <img alt="LeetCode" width="28px" src="https://cdn.simpleicons.org/leetcode" />
 </a>
+&nbsp;&nbsp;
+
 <a href="https://www.hackerrank.com/profile/mailshubhamsg20">
-  <img align="left" alt="Shubham's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img alt="HackerRank" width="28px" src="https://cdn.simpleicons.org/hackerrank" />
 </a>
-<br />
+
+</p>
+
+I started my journey in tech with curiosity, determination, and a strong passion for building scalable and meaningful systems. Currently, I’m working on enterprise-grade Banking and Telecom applications using Java, Spring Boot, and Microservices architecture, building robust backend solutions that scale efficiently in production environments. 🚀
+
+🛠️ Tech Stack: Java, Spring Boot, Microservices, Kafka, Redis, PostgreSQL, Docker, Kubernetes, ReactJS, REST/SOAP APIs, CI/CD 🛠️
+
+🧰 Skilled in backend engineering, distributed systems, multithreading, REST/SOAP integrations, data structures & algorithms, database management systems (DBMS), and scalable enterprise application development. 💾🚀
+
+<br/>
+💡 Java Full Stack Developer | Backend Engineering | Distributed Systems | Problem Solving
 <br/>
 
-I started my journey in tech with curiosity, determination, and a strong desire to build meaningful systems. Currently I am working on enterprise-grade applications using Java, Spring Boot, and Microservices architecture, deploying robust solutions that scale and perform in production.
-
-🛠️ Tech stack: Java, SpringBoot,Microservices, Kafka, ReactJs, JavaScript, HTML, and CSS for both front-end and back-end. 🛠️
-
-🧰 My skills encompass designing and building scalable and secure software architectures, data structures, algorithms, object-oriented programming, operating systems, and database management systems (DBMS). 💾🚀
-<br/>
- JAVA FullStack Developer || Problem solving(JAVA)
-<br/>
-Besides programming, I enjoy ccoking food and travelling.
+Besides programming,I enjoy exploring new technologies, problem solving, and continuously improving my development skills and  I enjoy ccoking food and travelling.✨
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on JAVA  
-- 💬 Ask me anything, I am always happy to help
-- 👨🏽‍💼 Actively Solving the programming questions on various platform
+## 🚀 About Me
+
+- 💻 Java Full Stack Developer specializing in Spring Boot & Microservices
+- ⚡ Building scalable Banking & Telecom backend systems
+- 🔥 Experienced in Kafka, Redis, REST/SOAP APIs, Docker & Kubernetes
+- 🧠 Actively Solving the DSA problems on various platform across LeetCode & GeeksforGeeks
+- 🤖 Exploring AI-assisted development workflows using GitHub Copilot & Claude Code
+- 📫 Reach me at: mailshubhamsg20@gmail.com
 - 🙍  Open Source Contributor
-- 📫 How to reach me: mailshubhamsg20@gmail.com
 - 💼 [My Portfolio](https://https://github.com/gitshubh20/Portfolio/)
-- ⚡️ [Sourcerer Porfile](https://sourcerer.io/vkn84527)
-- [GitZilla](https://gitzilla.netlify.app/users/vkn84527)
 
-**Languages and Tools:**  
+## 📈 Problem Solving
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <!-- Java -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+- ✅ Solved 100+ problems on LeetCode & GeeksforGeeks combined
+- ✅ Strong understanding of DSA, Collections & Multithreading
+- ✅ Focused on Java backend engineering and scalable system design
 
-  <!-- Spring Boot -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot">
+### 🔗 Coding Profiles
 
-  <!-- HTML -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+- LeetCode: https://leetcode.com/u/gitshubh20/
+- GeeksForGeeks: https://www.geeksforgeeks.org/user/geekyshubh20/
+- HackerRank: https://www.hackerrank.com/profile/mailshubhamsg20
 
-  <!-- CSS -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+## 🛠️ Languages and Tools
 
-  <!-- JavaScript -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+<p align="left">
 
-  <!-- React -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 
-  <!-- Node.js -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40"/>
 
-  <!-- MySQL -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
 
-  <!-- MongoDB -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/>
 
-  <!-- Git -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40"/>
 
-  <!-- VS Code -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 
-  <!-- Terminal -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal">
-</div>
+</p>
 
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitshubh20&show_icons=true&theme=tokyonight)
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=gitshubh20&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitshubh20&layout=compact&theme=tokyonight)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gitshubh20?theme=dark&font=Nunito&ext=heatmap)
 
 <br/>
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
+## 💼 Work Experience
+
 | Position | Organization | Timeline |
-| :-: | :-: | :-: |
-| SDE-1 | [@VERIZON](https://www.verizon.com/business/en-gb/products/voice-collaboration/productivity-tools/go-canvas/) | July 2023 - July2025 |
+|----------|--------------|-----------|
+| Software Engineer | Scageon Technologies Pvt. Ltd. | Aug 2025 – Present |
+| SDE - I | Advento Technologies Pvt. Ltd. | Jun 2023 – Jul 2025 |
+
+### 🏦 Enterprise Projects
+
+- **East West Bank Philippines** – Core Banking Modernization  
+  Spring Boot microservices, Temenos T24 integrations, Kafka-driven notification workflows, coexistence routing, Redis caching, REST/SOAP APIs.
+
+- **OCBC Bank Singapore** – KYC & Cards Integration  
+  Middleware banking services, SIBS integrations, onboarding workflows, JSON-to-SOAP transformation, enterprise orchestration.
+
+- **Verizon India** – ESAP to CONNECT Modernization  
+  Telecom provisioning systems, VOIP activation, asynchronous processing using CompletableFuture, TN migration workflows.
 
 
 You have finally discovered my Github profile!!
