@@ -59,7 +59,7 @@ Besides programming,I enjoy exploring new technologies, problem solving, and con
 
 ## 📈 Problem Solving
 
-- ✅ Solved 100+ problems on LeetCode & GeeksforGeeks combined
+- ✅ Actively strengthening problem-solving and algorithmic skills by working on Data Structures and Algorithms problems across LeetCode and GeeksforGeeks.
 - ✅ Strong understanding of DSA, Collections & Multithreading
 - ✅ Focused on Java backend engineering and scalable system design
 
