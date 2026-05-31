@@ -110,8 +110,8 @@ Besides programming,I enjoy exploring new technologies, problem solving, and con
 
 | Position | Organization | Timeline |
 |----------|--------------|-----------|
-| Software Engineer | Scageon Technologies Pvt. Ltd. | Aug 2025 – Present |
-| SDE - I | Advento Technologies Pvt. Ltd. | Jun 2023 – Jul 2025 |
+| SDE - I  | Scageon Technologies Pvt. Ltd. | Aug 2025 – Present |
+| Software Engineer | Advento Technologies Pvt. Ltd. | Jun 2023 – Jul 2025 |
 
 ### 🏦 Enterprise Projects
 
